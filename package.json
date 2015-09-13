@@ -15,5 +15,9 @@
     "express": "^4.13.3",
     "markdown-it": "^4.4.0",
     "morgan": "^1.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:calvinmetcalf/medium-lightning.git"
   }
 }
