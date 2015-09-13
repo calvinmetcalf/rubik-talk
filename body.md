@@ -1,35 +1,50 @@
-use &harr; to navigate
+[//]: # (title page)
+STUFF!
 
-Medium
+[//]: # (slide 1)
+stuff 1
 
-_Presentation software_ for lazy messy hackers
+[//]: # (slide 2)
+stuff 2
 
-text
+[//]: # (slide 3)
+stuff 3
 
-from markdown
+[//]: # (slide 4)
+stuff 4
 
-as _medium_ as it can be
+[//]: # (slide 5)
+stuff 5
 
-no config
+[//]: # (slide 6)
+stuff 6
 
-_1.5k_
+[//]: # (slide 7)
+stuff 7
 
-plus like _50k_ more for Markdown conversion, CSS, and other stuff
+[//]: # (slide 8)
+stuff 8
 
-![](http://farm9.staticflickr.com/8527/8680357801_712bc7e350_o.png) images too
+[//]: # (slide 9)
+stuff 9
 
-* also
-* lists
-* as well
+[//]: # (slide 10)
+stuff 10
 
-```javascript
-var code = true;
-```
+[//]: # (slide 11)
+stuff 11
 
-based off [big by @tmcw](https://github.com/tmcw/big)
+[//]: # (slide 12)
+stuff 12
 
-markdown by [marked](https://github.com/chjj/marked)
+[//]: # (slide 13)
+stuff 13
 
-Syntax highlighting by [Highlight.js](http://softwaremaniacs.org/soft/highlight/en/)
+[//]: # (slide 14)
+stuff 14
 
-JS+CSS [github.com/ calvinmetcalf/ medium](https://github.com/calvinmetcalf/medium)
+[//]: # (slide 15)
+stuff 15
+
+[//]: # (after)
+after
