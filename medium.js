@@ -65,7 +65,7 @@ function onLoad (pres) {
         setTime('');
         return;
       }
-      curTime = 4;
+      curTime = 16;
     }
     curTime--;
     setTime(curTime);
