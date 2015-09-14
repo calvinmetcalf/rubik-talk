@@ -31,11 +31,10 @@ function go () {
   } else {
     document.body.style.backgroundImage = '';
     if (cur % 2) {
-      e.className = ' even';
+      document.body.className = ' even';
     } else {
-      e.className = ' odd';
+      document.body.className = ' odd';
     }
-    document.body.className = e.className;
   }
   while (e.offsetWidth > window.innerWidth || e.offsetHeight > window.innerHeight) {
     e.style.fontSize = (i -= 10) + 'px';
