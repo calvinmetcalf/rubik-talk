@@ -1,4 +1,5 @@
-var app = require('express')();
+const express = require('express');
+var app = express();
 var browserify = require('browserify-middleware');
 app.use(require('morgan')('dev'));
 var path = require('path');
@@ -12,6 +13,7 @@ app.get('/body.md', function (req, res) {
 app.get('/medium.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'medium.css'));
 });
+app.use(express.static('./static'));
 app.listen(3000, function () {
   console.log('listening on 3000');
 });
