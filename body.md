@@ -14,7 +14,7 @@ Step 2 orient the last layer
 Step 3 permute the last layer
 
 [//]: # (slide 5)
-![](owl.png)
+![](static/owl.png)
 
 [//]: # (slide 6)
 You will note, that’s ⅓ of the steps for the first two layers and ⅔ of the steps for the last layer

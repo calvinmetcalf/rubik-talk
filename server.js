@@ -13,7 +13,7 @@ app.get('/body.md', function (req, res) {
 app.get('/medium.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'medium.css'));
 });
-app.use(express.static('./static'));
+app.use('/static', express.static('./static'));
 app.listen(3000, function () {
   console.log('listening on 3000');
 });
