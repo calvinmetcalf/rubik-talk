@@ -61,7 +61,7 @@ function onLoad (pres) {
   function step () {
     if (curTime === 1) {
       go();
-      if (cur > 15) {
+      if (cur > 20) {
         finished = true;
         setTime('');
         return;
